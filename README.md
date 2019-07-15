@@ -1,3 +1,7 @@
 # Quasar App
 
-> WIP
+> Download dependencies:
+ - npm install
+ 
+> Run Develop Mode:
+ - quasar dev
